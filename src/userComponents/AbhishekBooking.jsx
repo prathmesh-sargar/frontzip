@@ -901,11 +901,11 @@ export default function AbhishekBooking() {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
 
-  const timeSlots = [
-    { value: "05:00", label: "5:00 AM - Mangala Aarti" },
-    { value: "07:00", label: "7:00 AM - Morning Abhishek" },
-    { value: "10:00", label: "10:00 AM - Shringar Darshan" },
-  ];
+  // const timeSlots = [
+  //   { value: "05:00", label: "5:00 AM - Mangala Aarti" },
+  //   { value: "07:00", label: "7:00 AM - Morning Abhishek" },
+  //   { value: "10:00", label: "10:00 AM - Shringar Darshan" },
+  // ];
 
   const validatePhone = (phoneNumber) => {
     return /^\d{10}$/.test(phoneNumber);
@@ -970,6 +970,7 @@ export default function AbhishekBooking() {
   };
 
    const {t} = useTranslation();  
+    const timeSlots = t('timeSlots', { returnObjects: true });
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-amber-50 via-white to-amber-50 flex flex-col items-center justify-center p-4">
@@ -1088,7 +1089,7 @@ export default function AbhishekBooking() {
                     id="time"
                     className="border-yellow-200 focus:ring-yellow-500"
                   >
-                    <SelectValue placeholder="Select Abhishek time" />
+                    <SelectValue placeholder={t("select_abhishek_time")} />
                   </SelectTrigger>
                   <SelectContent>
                     {timeSlots.map((slot) => (

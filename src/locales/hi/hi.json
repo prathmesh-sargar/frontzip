@@ -92,7 +92,16 @@
 "select_time": "समय चुनें",
 "scan_and_pay": "स्कैन करें और भुगतान करें",
 "transaction_id": "लेन-देन आईडी",
-"book_abhishek": "अभिषेक बुक करें"
+"book_abhishek": "अभिषेक बुक करें",
+"timeSlots": [
+  { "value": "05:00", "label": "५:०० AM - मंगला आरती" },
+  { "value": "07:00", "label": "७:०० AM - सुबह का अभिषेक" },
+  { "value": "10:00", "label": "१०:०० AM - श्रृंगार दर्शन" }
+],
+"select_abhishek_time": "अभिषेक का समय चुनें"
+
+
+
 
 
 

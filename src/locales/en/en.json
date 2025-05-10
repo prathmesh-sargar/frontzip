@@ -91,7 +91,16 @@
 "select_time": "Select Time",
 "scan_and_pay": "Scan and Pay",
 "transaction_id": "Transaction ID",
-"book_abhishek": "Book Abhishek"
+"book_abhishek": "Book Abhishek",
+"timeSlots": [
+  { "value": "05:00", "label": "5:00 AM - Mangala Aarti" },
+  { "value": "07:00", "label": "7:00 AM - Morning Abhishek" },
+  { "value": "10:00", "label": "10:00 AM - Shringar Darshan" }
+],
+"select_abhishek_time": "Select Abhishek time"
+
+
+
 
 
 
