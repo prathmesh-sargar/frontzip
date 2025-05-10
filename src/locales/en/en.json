@@ -1,0 +1,104 @@
+{
+  "temple_name": "Mahalaxmi",
+  "temple_title": "Shree Mandir",
+  "temple_tagline": "Satyam Shivam Sundaram - A sacred space for worship, spiritual growth, and divine connection with our ancient traditions",
+  "visit_booking": "Visit Bookings",
+   "welcome": "Welcome",
+  "sacred_space": "A Sacred Space for Divine Connection",
+  "temple_description_1": "The Mahalaxmi Temple of Kolhapur is a revered center of devotion, rich in spiritual tradition, cultural significance, and community faith. For centuries, it has drawn countless devotees seeking the blessings of Goddess Mahalaxmi.",
+  "temple_description_2": "The temple is constructed following ancient वास्तु शास्त्र (Vastu Shastra) principles, fostering a spiritually uplifting and harmonious atmosphere that deepens the connection between devotees and the divine.",
+   "guidance_title": "Guidance",
+  "guidance_description": "Expert priests providing authentic rituals and guidance",
+  "abhishek_service_title": "Abhishek Booking Service",
+  "abhishek_service_description": "Abhishek Booking Service",
+  "go_to_abhishek": "Go to Abhishek Booking",
+  "our_deities_title": "Our Deities",
+  "divine_presence": "Divine Presence",
+  "our_deities_description": "Our temple houses several deities, each with their own significance and dedicated space for worship.",
+  "temple_timings_title": "Temple Timings",
+"temple_timings_subtitle": "Daily Schedule",
+"temple_timings_description": "Our temple follows a traditional schedule of rituals and ceremonies throughout the day.",
+"temple_rituals": [
+  {
+    "time": "4:45 AM",
+    "ritual": "Temple Opens",
+    "description": "The temple opens for morning darshan."
+  },
+  {
+    "time": "6:10 AM",
+    "ritual": "Kakad Aarti",
+    "description": "First aarti of Goddess Mahalaxmi in the morning."
+  },
+  {
+    "time": "6:30 AM",
+    "ritual": "Camphor Aarti",
+    "description": "Performed immediately after the Kakad Aarti."
+  },
+  {
+    "time": "8:30 AM",
+    "ritual": "Goddess Bath",
+    "description": "The Goddess is bathed with sacred water."
+  },
+  {
+    "time": "9:30 AM",
+    "ritual": "Morning Aarti",
+    "description": "A special puja to start the day."
+  },
+  {
+    "time": "11:30 AM",
+    "ritual": "Second Bath",
+    "description": "The Goddess receives a second ceremonial bath."
+  }
+],
+"temple_rituals_continued": [
+  {
+    "time": "12:30 PM",
+    "ritual": "Afternoon Aarti",
+    "description": "Midday aarti of Goddess Mahalaxmi."
+  },
+  {
+    "time": "Daily",
+    "ritual": "Adornment Ritual",
+    "description": "The Goddess is adorned with jewelry and garments daily."
+  },
+  {
+    "time": "8:30 PM",
+    "ritual": "Night Aarti",
+    "description": "The day ends with the aarti of the Goddess."
+  },
+  {
+    "time": "10:10 PM",
+    "ritual": "Shej Aarti",
+    "description": "Final aarti before the Goddess retires for rest."
+  },
+  {
+    "time": "Friday 9:30 PM",
+    "ritual": "Palkhi Procession",
+    "description": "Every Friday, the Palkhi (palanquin) procession of the Goddess."
+  }
+],
+  "morning_rituals": "Morning Rituals",
+  "evening_rituals": "Evening Rituals",
+  "gallery": "Gallery",
+  "gallery_title": "Temple Gallery",
+  "gallery_description": "Glimpses of our beautiful temple, festivals, and community events.",
+  "shree_devasthan": "Shree Devasthan",
+"abhishek_booking": "Abhishek Booking",
+"abhishek_description": "Offer your devotion at the feet of the Lord",
+"full_name": "Full Name",
+"phone_number": "Phone Number",
+"select_date": "Select Date",
+"select_time": "Select Time",
+"scan_and_pay": "Scan and Pay",
+"transaction_id": "Transaction ID",
+"book_abhishek": "Book Abhishek"
+
+
+
+
+
+
+
+
+
+}
